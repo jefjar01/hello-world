@@ -1,7 +1,7 @@
 # hello-world
-Jarboe's Hello World Repository
 
-Aloha people!  How'z it?  This is Jarboe.  This is my page.
+Aloha people!  How'z it?
+This is Jarboe.  This is my hello world page.
 
 That's about all I got to say.
 
